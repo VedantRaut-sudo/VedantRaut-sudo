@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vedant Raut</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Developer at CloudRedux</h3>
 
-- 🔭 I’m currently working on **World Today News Application**
+- 🔭 I’m currently working on DocXter 🚀
 
-- 🌱 I’m currently learning **Data Exploration with Python And Advance React.JS**
-
-- 👨‍💻 All of my projects are available at [https://vedantraut.netlify.app](https://vedantraut.netlify.app)
-
-- 💬 Ask me about **React, MERN ,Web**
-
-- 📫 How to reach me **vedantraut0608@gmail.com**
+- 📫 Mail **vedantraut0608@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
