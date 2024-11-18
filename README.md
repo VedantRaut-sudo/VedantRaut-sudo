@@ -17,9 +17,4 @@
 
 <hr/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantRaut-sudo&" alt="VedantRaut-sudo" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedantRaut-sudo&show_icons=true&locale=en" alt="VedantRaut-sudo" />
-</div>
+
