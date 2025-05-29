@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Raut</h1>
-<h3 align="center">Developer at CloudRedux</h3>
-
-- 🔭 I’m currently working on DocXter 🚀
+<h3 align="center">SDE at StarApps</h3>
 
 - 📫 Mail **vedantraut0608@gmail.com**
 
